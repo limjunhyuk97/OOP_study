@@ -10,6 +10,7 @@
     - Reusing existing classes
     - SuperClass - SubClass relationship
   - Data abstraction
+    - 어떤 정보를 encapsulate 할 것인가? 
     - generalization
     - specification    
     - 성질의 관점
