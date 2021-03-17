@@ -2,13 +2,14 @@
 
 ## Feature of OOP
   - Encapsulation (hiding)
-    - Hiding implementation details
-    - exposing external behavior (public methods)
+    - Hiding implementation details : 안으로 숨겨야할 사항들을 정한다. (user가 직접 이용하는데 필요한 부분들)
+    - exposing external behavior (public methods) : 겉으로 드러내야할 사항들을 정한다. (user가 이용하는데 몰라도 되는 부분들, data 엮임 방지)
     - Class are the unit of encapsulation
-    - 언어적 구현의 관점
+    - 언어적 구현의 관점 : 재사용성을 높인다. 사용자가 동작의 방식을 몰라도 쉽게 이용할 수 있게 된다.
   - Inheritance (Reusing)
     - Reusing existing classes
     - SuperClass - SubClass relationship
+    - 재사용성을 높인다. 이전의 성질들에 추가된 성질들을 가미하여, 처음부터 다시 구현할 필요가 없게끔, 재사용이 용이해진다.
   - Data abstraction
     - 어떤 정보를 encapsulate 할 것인가? 
     - generalization
